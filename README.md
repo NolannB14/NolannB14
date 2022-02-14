@@ -1,1 +1,1 @@
-![NolannB14's GitHub stats](https://github-readme-stats.vercel.app/api?username=NolannB14&count_private=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NolannB14&theme=radical)](https://github.com/NolannB14/NolannB14)
+![NolannB14's GitHub stats](https://github-readme-stats.vercel.app/api?username=NolannB14&count_private=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NolannB14&theme=radical)](https://github.com/NolannB14/NolannB14)
