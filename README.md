@@ -15,7 +15,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com?user=NolannB14&theme=transparent&border_radius=10" width="400" />
     </div>
     <br>
-    <p>🎓 2nd Year EPITECH Student - 🛣️ Road to IT engineer</p>
+    <p>🎓 3rd Year EPITECH Student - 🛣️ Road to IT engineer</p>
     <br>
     <div>
         <img src="https://media.giphy.com/media/QkksEGbn9YEJKJbF31/giphy.gif" width="400" />
